@@ -18,7 +18,8 @@ void main() {
   cin >> Integer.integer_;
   cout << "low byte of Integer is : " <<Integer.ch_[0] <<endl;
   cout << "hight byte of Integer is : " << Integer.ch_[1] << endl;
-
+  cout << "Damme88";
+  cout << "hello";
   _getch();
 }
 
