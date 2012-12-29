@@ -17,6 +17,9 @@
 *release/
 *.suo
 *.aps
+*.filters
+*.user
+*.vcxproj
 
 
 
